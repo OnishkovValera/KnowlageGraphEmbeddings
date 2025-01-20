@@ -1,0 +1,6 @@
+pandas
+tensorflow
+seaborn
+numpy
+scikit-learn
+ampligraph
